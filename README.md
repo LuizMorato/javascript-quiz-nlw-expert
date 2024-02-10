@@ -20,6 +20,6 @@ The program offers high-quality courses for those who want to learn how to devel
 
 ## Try JavaScript Quiz now!
 
-- Access the website [`JavaScript Quiz`](https://expert-notes-ten.vercel.app/).
+- Access the website [`JavaScript Quiz`](https://javascript-quiz-nlw-expert.vercel.app/).
   
 
